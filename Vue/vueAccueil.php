@@ -1,4 +1,4 @@
-<?php $titre = 'Le Ruinesue du prof'; ?>
+<?php $titre = 'Ruines de chateaux'; ?>
 
 <?php ob_start(); ?>
 <a href="index.php?action=apropos">
