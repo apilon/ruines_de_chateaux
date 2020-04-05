@@ -1,4 +1,4 @@
-<?php $titre = "Ruines de châteaux - " . $site_de_ruine['titre']; ?>
+<?php $titre = "Ruines de châteaux - " . $site_de_ruine['nom']; ?>
 
 <?php ob_start(); ?>
 <site_de_ruine>
